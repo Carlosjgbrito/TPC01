@@ -1,5 +1,42 @@
 # TPC01
 frikfrak
+O Frikfrak é um jogo simples que consiste em alinhar três botões horizontalmente, verticalmente ou diagonalmente. Este projeto foi criado utilizando HTML, CSS e JavaScript.
+
+Pré-requisitos
+Para executar o jogo, você precisará de um navegador web moderno capaz de executar JavaScript.
+
+Como utilizar
+Para utilizar o projeto, siga os passos abaixo:
+
+Clone ou faça o download deste repositório em sua máquina.
+Abra o arquivo index.html em um navegador web.
+Clique nos botões para jogar o Frikfrak.
+O jogo termina quando um jogador conseguir alinhar três botões horizontalmente, verticalmente ou diagonalmente.
+Algoritmos utilizados
+O algoritmo utilizado neste jogo é bastante simples. É basicamente uma verificação de condição que checa se os botões estão alinhados horizontalmente, verticalmente ou diagonalmente. Caso estejam, o jogo é encerrado e o jogador vencedor é declarado.
+
+Exemplos
+Exemplo de como o jogo Frikfrak se parece:
+
+![Frikfrak Example](./para\ jogo\ frikfrak.jpg)
+
+Contribuições
+Contribuições são sempre bem-vindas! Para contribuir com o projeto, siga os passos abaixo:
+
+Faça um fork deste repositório.
+Crie uma nova branch com sua contribuição (ex: git checkout -b minha-contribuicao).
+Faça as alterações necessárias no código.
+Faça commit das suas alterações (ex: git commit -m 'Adiciona nova funcionalidade').
+Faça push das suas alterações para a branch que você criou (ex: git push origin minha-contribuicao).
+Crie um novo pull request neste repositório.
+Autor
+Carlos Brito
+Licença
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE.md para obter mais informações.
+
+
+
+
 Este código HTML fornece a base para a criação de um jogo Frikfrak interativo, onde os jogadores podem clicar nos botões numerados para jogar o jogo. O arquivo CSS e o arquivo JavaScript externos adicionam estilos e funcionalidades adicionais à página.
 o código HTML define o estilo da página usando a tag style, que define algumas propriedades CSS para o body e para um fundo de imagem. O seletor "*" define propriedades CSS para todos os elementos, enquanto o seletor "body" define propriedades específicas para o corpo da página.lo
 Dentro do corpo da página, a tag main é usada para definir o conteúdo principal da página, que inclui o título do jogo, uma linha horizontal e os botões numerados de 1 a 9. Os botões são definidos com a tag button e têm um atributo data-i que define um valor numérico de 1 a 9 para cada botão.
